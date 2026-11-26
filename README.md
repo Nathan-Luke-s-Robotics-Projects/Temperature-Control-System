@@ -2,13 +2,13 @@
 This repository shows how to make a temperature control system that can be implemented in industries. An example being an injection modelling.
 
 <h4 align="center"> Component Used: </h4>
- - Temperature Controller TK45
+<p> - Temperature Controller TK45 </n>
   - Thermocouple Type-K
    - USB to Modbus RTU
     - Halogen Lamp + Fitting
      - SSR (Solid State Relay) Autonics
       - Cables Power + Crimp - Fork
-       - DAQ Master
+       - DAQ Master </p>
 
  <h4 align="center"> Wiring Diagram </h4>
 
